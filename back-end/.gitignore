@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info
+dist/
+build/
+
+# Virtual Environment
+venv/
+ENV/
+mybdo/
+
+# ZODB
+*.fs
+*.lock
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
