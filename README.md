@@ -9,8 +9,9 @@ The backend of the application is built with Flask, a Python web framework, and 
 ### Setup and Installation
 
 ```bash
-git clone https://github.com/cristianchivisky/repository.git
-cd repository
+git clone https://github.com/cristianchivisky/patient-shifts-manager.git
+cd patient-shifts-manager
+cd back-end
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
